@@ -39,7 +39,7 @@ To set up OM2M, follow these steps:
 ## Usage
 
 Once OM2M is running, you can:
-- Access the Web UI at `http://localhost:8080/web`
+- Access the Web UI at `http://localhost:8080/webpage`
 - Use REST APIs for managing resources
 - Connect IoT devices following oneM2M specifications
 
