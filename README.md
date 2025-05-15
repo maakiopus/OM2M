@@ -25,8 +25,7 @@ To set up OM2M, follow these steps:
    ```bash
    cd om2m
    ```
-3. Modify the required bash/batch scripts as needed.
-4. Run the appropriate script:
+3. Run the appropriate script:
    ```bash
    ./start.sh   # For Linux/Mac
    start.bat    # For Windows
